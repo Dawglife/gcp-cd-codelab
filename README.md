@@ -1,2 +1,2 @@
 # gcp-cd-codelab 
-# nice codelab
+# nice codelabs
