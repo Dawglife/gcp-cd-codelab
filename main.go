@@ -1,4 +1,4 @@
-package main
+epackage main
 
 import (
 	"io"
@@ -6,7 +6,7 @@ import (
 )
 
 func hello(w http.ResponseWriter, r *http.Request) {
-	io.WriteString(w, "Hello world! Google Cloud Rules!!!...again!!...and againnnnnn!!!!")
+	io.WriteString(w, "Demo time!!!")
 }
 
 func main() {
